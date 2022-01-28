@@ -1,5 +1,24 @@
 # Todoapp
 
+#
+#  Tasks
+
+## First
+- [ ] Load todos from json into component
+
+## In any order
+- [ ]  Add New Todo Item
+- [ ]  Shuffle items when pressing shuffle button
+- [ ]  Add marking tasks as done
+- [ ]  Pin items on top of list when pressing pin
+- [ ]  Add another button in todo item to open more details
+- [ ]  Update style
+- [ ]  Add majestic cover photo [https://i.ontraport.com/236174.d47933fb79ab616322b4b9bc79dcf272.JPEG](https://i.ontraport.com/236174.d47933fb79ab616322b4b9bc79dcf272.JPEG)
+- [ ]  Enable editing of Todo item
+- [ ]  Add Subsections based on some criteria
+
+# Angular
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.0.
 
 ## Development server
